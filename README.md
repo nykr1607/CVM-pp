@@ -1,6 +1,6 @@
 # CVM++
 
-A stack-based virtual machine and mini compiler implemented in C++.
+A stack-based Virtual Machine and mini compiler implemented in C++.
 
 This project demonstrates the complete compilation pipeline of a simple custom scripting language. The source code is tokenized by a lexer, parsed into an Abstract Syntax Tree (AST), compiled into bytecode instructions, and finally executed by a stack-based virtual machine.
 
